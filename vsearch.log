@@ -1,0 +1,9 @@
+ImmutableMultiDict([('phrase', 'Hello, everybody'), ('letters', 'qwerty')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'r', 'e', 'y'}
+ImmutableMultiDict([('phrase', 'how are you'), ('letters', 'lol')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'o'}
+ImmutableMultiDict([('phrase', "hello it's me"), ('letters', 'auie')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'i', 'e'}
+ImmutableMultiDict([('phrase', "hello it's me"), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'e', 'i', 'o'}
+ImmutableMultiDict([('phrase', 'how are you'), ('letters', 'lol')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'o'}
+ImmutableMultiDict([('phrase', "hello it's me"), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'e', 'o', 'i'}
+ImmutableMultiDict([('phrase', 'Hello, everybody'), ('letters', 'qwerty')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'e', 'r', 'y'}
+ImmutableMultiDict([('phrase', "hello it's me"), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'i', 'e', 'o'}
+ImmutableMultiDict([('phrase', 'Hello, everybody'), ('letters', 'qwerty')]) | 127.0.0.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 | {'y', 'e', 'r'}
