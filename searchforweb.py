@@ -6,7 +6,7 @@ from threading import Thread
 from getpass import getpass
 
 app = Flask(__name__)
-app.config['dbconfig'] = {'host': '127.0.0.1',
+app.config['dbconfig'] = {'host': '*',
                           'user': input('Enter your name: '),
                           'password': getpass('Enter the password: '),
                           'database': 'vsearchlogDB', }
@@ -86,7 +86,7 @@ def view_the_log():
     return 'Error'
 
 
-app.secret_key = 'YouWillNeverGuessMySecretKey'
+app.secret_key = '***'
 
 if __name__ == '__main__':
     app.run(debug=True)
